@@ -1,0 +1,6 @@
+[submodule "foodNest_client"]
+	path = foodNest_client
+	url = https://github.com/ho-ssain/foodNest_client.git
+[submodule "foodNest_server"]
+	path = foodNest_server
+	url = https://github.com/ho-ssain/foodNest_server.git
