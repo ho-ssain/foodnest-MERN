@@ -1,4 +1,6 @@
-# Features
+#
+
+## Features
 
 > User Auth
 > Registration
@@ -12,3 +14,18 @@
 > Managing Cart
 > Stripe Checkout
 > Live Order Status
+
+## Tech Stack
+
+> React
+> Node
+> MongoDB
+> TypeScript
+> Shadcn
+> Tailwind
+> React Hook Form
+> GitHub
+> Auth0
+> Stripe
+> Cloudinary
+> Render
