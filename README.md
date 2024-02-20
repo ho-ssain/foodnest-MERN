@@ -1,4 +1,4 @@
-#
+# FoodNest (an Enterprise-Level Food Ordering Platform)
 
 ## Features
 
@@ -29,3 +29,11 @@
 > Stripe
 > Cloudinary
 > Render
+
+Shadcn Components that are used in this project
+
+- sheet
+- separator
+- form
+- input
+- sonner
